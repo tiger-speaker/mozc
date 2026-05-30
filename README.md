@@ -59,7 +59,7 @@ stable (or equally unstable) in terms of no official QA process.
 information and useful links about recent changes.
 
 License
--------
+------- 
 
 All Mozc code written by Google is released under
 [The BSD 3-Clause License](http://opensource.org/licenses/BSD-3-Clause).
